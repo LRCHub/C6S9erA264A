@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ハイドアンド・シーク",
+  "base_artist": "Leo/need",
+  "createdAt": "2026-01-12T16:34:29.436948Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハイドアンド・シーク (feat. 星乃一歌&望月穂波&初音ミク)",
+      "artist": "Leo/need",
+      "has_synced": false,
+      "path": "select/pl_01_ハイドアンド・シーク_(feat._星乃一歌&望月穂波&初音ミク)_Leo_need.txt"
+    }
+  ]
+}
